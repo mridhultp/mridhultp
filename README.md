@@ -1,13 +1,9 @@
-<!-- GitHub Profile README for Mridhul - upgraded with ML/DL focus (NO horizontal rules; custom divider added) -->
-
 <div align="center">
+    <p><small style="color:#A0A0A0;">Profile views: <b>23,456</b></small></p>
 
-  <p><small>Profile views: <b>23,456</b></small></p>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="290" />
-  </p>
-
+    <div align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Animated coding illustration" style="display: block; margin: 0 auto;" />
+    </div>
 </div>
 
 <div align="center">
@@ -18,14 +14,12 @@
 
 I'm an **aspiring AI Researcher**, passionately building intelligent systems with a focus on **Machine Learning (ML)** and **Deep Learning (DL)** architectures.
 
-I am currently pursuing an **M.Sc. in Data Science** where I experiment with:
+I am currently pursuing an **M.Sc. in Data Science** where I focus on:
 
 <div align="center" style="margin: 20px 0;">
     <img src="image_cfeffb.png" alt="ML Life Cycle with Synthetic Data Diagram" width="700" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);" />
     <br><small style="color:#A0A0A0; margin-top: 10px;">End-to-end MLOps: From Data Collection to Model Retraining and Improvement.</small>
 </div>
-<div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
-
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
 ## 🛠️ Machine Learning & Deep Learning Stack
