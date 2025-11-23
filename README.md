@@ -6,8 +6,8 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="290" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Mridhul+T+P%3A+Data+Analyst" alt="Typing Text Effect" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=false&vCenter=true&width=500&lines=%E2%9C%88+Mridhul+T+P%3A+Data+Analyst" alt="Typing Text Effect" />
+
 
 ## Hey Welcome to my Github Account,
 
