@@ -1,5 +1,6 @@
 <div align="center">
-    <p><small style="color:#A0A0A0;">Profile views: <b>23,456</b></small></p>
+    <img src="https://komarev.com/ghpvc/?username=mridhultp&label=Profile%20Views&color=6A0DAD&style=flat" alt="Profile Views Counter"/>
+</div>
 
   <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="290" />
@@ -8,7 +9,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Mridhul+T+P%3A+Aspiring+AI+Researcher" alt="Typing Text Effect" />
 </div>
 
-## Hey Friends,
+## Hey Welcome to my Github Account,
 
 I'm an **aspiring AI Researcher**, passionately building intelligent systems with a focus on **Machine Learning (ML)** and **Deep Learning (DL)** architectures.
 
