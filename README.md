@@ -83,5 +83,5 @@ I'm always open to discussing new AI/ML projects, research opportunities, and da
 
 <div style="margin-top:20px;"></div>
 
-<br><small style="color:#A0A0A0; margin-top:10px;">Building the future, one intelligent system at a time.</small>
+<br><small style="color:#A0A0A0; margin-top:10px;">Best of East with best of West.</small>
 </div>
