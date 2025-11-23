@@ -4,10 +4,11 @@
     <div align="center">
         <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Animated coding illustration" style="display: block; margin: 0 auto;" />
     </div>
-
 </div>
 
-# ✨ Mridhul T P: Aspiring AI Researcher
+<div align="center">
+    <img src="YOUR_GIF_URL_HERE.gif" alt="Mridhul T P: Aspiring AI Researcher" style="max-width: 100%; height: auto; display: block; margin: 20px auto;" />
+</div>
 
 ## Hey Friends,
 
