@@ -1,4 +1,4 @@
-<!-- GitHub Profile README for Mridhul - upgraded with ML/DL focus -->
+<!-- GitHub Profile README for Mridhul - upgraded with ML/DL focus (NO horizontal rules) -->
 
 <div align="center">
 
@@ -10,15 +10,11 @@
 
 </div>
 
----
-
 ### 👋 Hi Friends,
 
 I'm an **aspiring AI Researcher**, passionate about building intelligent systems using **Python, Machine Learning, and Deep Learning frameworks**.
 
 I am currently pursuing an **M.Sc. in Data Science**, while experimenting with ML/DL models, analytics workflows, and end-to-end data projects.
-
----
 
 ## 💼 Corporate Experience (11+ Years)
 
@@ -30,8 +26,6 @@ Experienced professional with a strong background across multiple corporate doma
 - 🏥 **Healthcare Analytics**  
 - 🌍 **Business Immigration (Global Mobility)**  
 
----
-
 ## 🚀 Areas of Expertise
 
 - 🤖 **Machine Learning & AI Systems**  
@@ -39,8 +33,6 @@ Experienced professional with a strong background across multiple corporate doma
 - 🎯 **Prompt Engineering**  
 - 🧠 **Anatomy, Physiology & Yoga Science (M.Sc. Yoga + UGC NET)**  
 - 📚 **Research & Academic Writing — First Author in an International Conference Publication**  
-
----
 
 <div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap">
 
@@ -54,14 +46,10 @@ Experienced professional with a strong background across multiple corporate doma
 
 </div>
 
----
+### 📫 Let's Connect
 
-### 📫 How to reach me
-
-- Email: **`mridhul0014@gmail.com`** , **`mridhulp@zohomail.in`**
+- Email: **[mridhulp@zohomail.in](mailto:mridhulp@zohomail.in)**  
 - LinkedIn: [Mridhul T P](https://www.linkedin.com/in/mridhul-t-p-2b396920b)
-
----
 
 <!-- Colorful SVG Wave Pattern (Sarvesh-style) -->
 <div style="margin-top:30px;"></div>
