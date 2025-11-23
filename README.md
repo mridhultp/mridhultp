@@ -33,6 +33,11 @@ Showcasing my primary tools and areas of expertise with dynamic badges:
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
     <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit Badge"/>
+</p>
+<p>
+    <img src="https://img.shields.io/badge/Seaborn-3C9A84?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
+    <img src="https://img.shields.io/badge/Matplotlib-033D50?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib Badge"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
 </p>
 
@@ -72,7 +77,7 @@ My extensive corporate experience provides a strong analytical and domain-specif
 
 I'm always open to discussing new AI/ML projects, research opportunities, and data challenges.
 
-* 📧 **Email:** [mridhulp@zohomail.in](mailto:mridhulp@zohomail.in) \| [mridhulp@gmail.com](mailto:mridhulp@gmail.com)
+* 📧 **Email:** [mridhulp@zohomail.in](mailto:mridhulp@zohomail.in) \| [mridhul0014@gmail.com](mailto:mridhul0014@gmail.com)
 * 🔗 **LinkedIn:** [Mridhul T P](https://www.linkedin.com/in/mridhul-t-p-2b396920b)
 * 💡 **Portfolio/Blog:** *[Coming Soon]*
 
