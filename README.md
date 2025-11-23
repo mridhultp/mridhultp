@@ -21,8 +21,8 @@ I'm an **aspiring AI Researcher**, passionately building intelligent systems wit
 I am currently pursuing an **M.Sc. in Data Science** where I experiment with:
 
 <div align="center" style="margin: 20px 0;">
-    <img src="YOUR_ML_LIFECYCLE_IMAGE_URL_HERE" alt="ML Lifecycle: Data Collection, Model Training, Deployment, and Monitoring" width="550" />
-    <br><small style="color:#A0A0A0;">Focusing on end-to-end MLOps from data acquisition to model deployment and monitoring.</small>
+    <img src="image_cfeffb.png" alt="ML Life Cycle with Synthetic Data Diagram" width="700" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);" />
+    <br><small style="color:#A0A0A0; margin-top: 10px;">End-to-end MLOps: From Data Collection to Model Retraining and Improvement.</small>
 </div>
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
