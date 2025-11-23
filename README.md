@@ -19,7 +19,7 @@ I am currently pursuing an **M.Sc. in Data Science**, while experimenting with M
 <!-- Custom Colored Divider -->
 <div style="height:2px;background:#6a0dad;margin:22px 0;border-radius:4px;"></div>
 
-<h2>💼 Corporate Experience (11+ Years)</h2> (11+ Years)
+<h2>💼 Corporate Experience </h2> (11+ Years)
 
 Experienced professional with a strong background across multiple corporate domains, including:
 
