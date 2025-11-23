@@ -48,7 +48,7 @@ Showcasing my primary tools and areas of expertise with dynamic badges:
 * **🤖 AI Systems & MLOps:** Building, deploying, and monitoring scalable models.
 * **🔒 AI Safety & Security:** Focusing on robust and ethical AI implementation.
 * **🎯 Prompt Engineering:** Mastering communication with Large Language Models (LLMs).
-* **📚 Research & Academic Writing:** First Author in an International Conference Publication.
+* **📚 Research & Publication:** Awarded First Author in an International Conference journal Publication.
 * **🧠 Interdisciplinary Science:** Leveraging knowledge from Anatomy, Physiology, & Yoga Science (M.Sc. Yoga + UGC NET).
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
@@ -78,7 +78,7 @@ My extensive corporate experience provides a strong analytical and domain-specif
 
 ## 🤝 Let's Connect and Collaborate!
 
-I'm always open to discussing new AI/ML projects, research opportunities, and data challenges.
+I'm always open to discussing new AI/ML or anyother Data science projects, data challenges in my domain, research opportunities in healthcare , Yoga and integrated medicine. 
 
 * 📧 **Email:** [mridhulp@zohomail.in](mailto:mridhulp@zohomail.in) \| [mridhul0014@gmail.com](mailto:mridhul0014@gmail.com)
 * 🔗 **LinkedIn:** [Mridhul T P](https://www.linkedin.com/in/mridhul-t-p-2b396920b)
