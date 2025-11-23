@@ -1,10 +1,10 @@
 <div align="center">
     <p><small style="color:#A0A0A0;">Profile views: <b>23,456</b></small></p>
 
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Animated coding illustration" style="display: block; margin: 0 auto;" />
-    </div>
-</div>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="290" />
+</p>
+
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Mridhul+T+P%3A+Aspiring+AI+Researcher" alt="Typing Text Effect" />
