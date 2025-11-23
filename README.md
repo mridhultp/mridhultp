@@ -1,63 +1,92 @@
-<!-- GitHub Profile README for Mridhul - upgraded with ML/DL focus (NO horizontal rules; custom divider added) -->
-
 <div align="center">
+    <p><small style="color:#A0A0A0;">Profile views: <b>23,456</b></small></p>
 
-  <p><small>Profile views: <b>23,456</b></small></p>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="290" />
-  </p>
-
+    <div align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Animated coding illustration" style="display: block; margin: 0 auto;" />
+    </div>
 </div>
 
-### 👋 Hi Friends,
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Mridhul+T+P%3A+Aspiring+AI+Researcher" alt="Typing Text Effect" />
+</div>
 
-I'm an **aspiring AI Researcher**, passionate about building intelligent systems using **Python, Machine Learning, and Deep Learning frameworks**.
+## Hey Friends,
+
+I'm an **aspiring AI Researcher**, passionately building intelligent systems with a focus on **Machine Learning (ML)** and **Deep Learning (DL)** architectures.
 
 I am currently pursuing an **M.Sc. in Data Science** where I focus on:
 
-<div align="center" style="margin:20px 0;">
-    <img src="/mnt/data/image_cfeffb.png" alt="ML Life Cycle with Synthetic Data Diagram" width="700" style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.4);display:block;margin:auto;" />
-    <br><small style="color:#A0A0A0;margin-top:10px;display:block;">End-to-end MLOps: From Data Collection to Model Retraining and Improvement.</small>
+<div align="center" style="margin: 20px 0;">
+    <img src="https://raw.githubusercontent.com/datarevenue/Data-Centric-MLOps-Project/main/img/mlops-cycle.png" 
+         alt="MLOps Cycle Diagram" 
+         width="650" 
+         style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);" />
+    <br><small style="color:#A0A0A0; margin-top: 10px;">End-to-end MLOps: From Data Collection to Model Retraining and Improvement.</small>
 </div>
-<div style="height:3px;background:linear-gradient(90deg,#6A0DAD,#4A00B3,#00A6A6);margin:25px 0;border-radius:4px;"></div>
 
-<h2>💼 Corporate Experience </h2> (11+ Years)
+<div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
-Experienced professional with a strong background across multiple corporate domains, including:
+## 🛠️ Machine Learning & Deep Learning Stack
 
-- 💰 **Finance & Financial Operations**  
-- 📈 **Workforce Management (WFM)**  
-- 🧩 **HR Analytics**  
-- 🏥 **Healthcare Analytics**  
-- 🌍 **Business Immigration (Global Mobility)**  
+Showcasing my primary tools and areas of expertise with dynamic badges:
 
-<!-- Custom Colored Divider -->
-<div style="height:2px;background:#6a0dad;margin:22px 0;border-radius:4px;"></div>
+### Core Frameworks & Libraries
+<p>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Badge"/>
+</p>
+<p>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
+    <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+</p>
 
-<h2>🚀 Areas of Expertise</h2>
+### Areas of Expertise
+* **🤖 AI Systems & MLOps:** Building, deploying, and monitoring scalable models.
+* **🔒 AI Safety & Security:** Focusing on robust and ethical AI implementation.
+* **🎯 Prompt Engineering:** Mastering communication with Large Language Models (LLMs).
+* **📚 Research & Academic Writing:** First Author in an International Conference Publication.
+* **🧠 Interdisciplinary Science:** Leveraging knowledge from Anatomy, Physiology, & Yoga Science (M.Sc. Yoga + UGC NET).
 
-- 🤖 **Machine Learning & AI Systems**  
-- 🔒 **AI Safety & Security**  
-- 🎯 **Prompt Engineering**  
-- 🧠 **Anatomy, Physiology & Yoga Science (M.Sc. Yoga + UGC NET)**  
-- 📚 **Research & Academic Writing — First Author in an International Conference Publication**  
+<div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
-<div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap">
+## 💼 Corporate Foundation (11+ Years of Analytical Experience)
+
+My extensive corporate experience provides a strong analytical and domain-specific foundation crucial for Data Science applications:
+
+* 💰 **Finance & Financial Operations:** Data-driven decision support and process optimization.
+* 📈 **Workforce Management (WFM):** Predictive resource planning and scheduling models.
+* 🧩 **HR & Healthcare Analytics:** Applying statistical methods to complex organizational and clinical data.
+* 🌍 **Business Immigration (Global Mobility):** Understanding complex regulatory data flows.
+
+<div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin-top:25px;">
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mridhultp&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mridhultp&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mridhul's GitHub Stats"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridhultp&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridhultp&layout=compact&theme=radical&hide_border=true" alt="Mridhul's Top Languages"/>
 </p>
 
 </div>
 
-### 📫 Let's Connect
+<div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
-- Email: **[mridhulp@zohomail.in](mailto:mridhulp@zohomail.in)**  
-- LinkedIn: [Mridhul T P](https://www.linkedin.com/in/mridhul-t-p-2b396920b)
+## 🤝 Let's Connect and Collaborate!
 
-<div style="margin-top:30px;"></div>
+I'm always open to discussing new AI/ML projects, research opportunities, and data challenges.
+
+* 📧 **Email:** [mridhulp@zohomail.in](mailto:mridhulp@zohomail.in) \| [mridhulp@gmail.com](mailto:mridhulp@gmail.com)
+* 🔗 **LinkedIn:** [Mridhul T P](https://www.linkedin.com/in/mridhul-t-p-2b396920b)
+* 💡 **Portfolio/Blog:** *[Coming Soon]*
+
+<div style="margin-top:20px;"></div>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mridhultp&theme=onedark&no-frame=true&row=1&column=5" alt="GitHub Trophies" />
+    <br><small style="color:#A0A0A0; margin-top:10px;">Building the future, one intelligent system at a time.</small>
+</div>
