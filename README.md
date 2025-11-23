@@ -13,7 +13,6 @@
 
 </div>
 
----
 
 ### 👋 Hi Friends,
 
@@ -21,7 +20,6 @@ I'm an **aspiring AI Researcher**, passionate about building intelligent systems
 
 I am currently pursuing an **M.Sc. in Data Science**, while experimenting with ML/DL models, analytics workflows, and end-to-end data projects.
 
----
 
 ## 💼 Corporate Experience (11+ Years)
 
@@ -33,7 +31,6 @@ Experienced professional with a strong background across multiple corporate doma
 - 🏥 **Healthcare Analytics**  
 - 🌍 **Business Immigration (Global Mobility)**  
 
----
 
 ## 🚀 Areas of Expertise
 
@@ -43,7 +40,6 @@ Experienced professional with a strong background across multiple corporate doma
 - 🧠 **Anatomy, Physiology & Yoga Science (M.Sc. Yoga + UGC NET)**  
 - 📚 **Research & Academic Writing — First Author in an International Conference Publication**  
 
----
 
 <div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap">
 
@@ -57,14 +53,13 @@ Experienced professional with a strong background across multiple corporate doma
 
 </div>
 
----
 
-### 📫 How to reach me
+### 📫 Let's Connect
 
-- Email: **`mridhul@example.com`**  
+- Email: **`mridhul0014@gmail.com`** , **`mridhulp@zohomail.in`**
+
 - LinkedIn: [Mridhul T P](https://www.linkedin.com/in/mridhul-t-p-2b396920b)
 
----
 
 <!-- Colorful SVG Wave Pattern (Sarvesh-style) -->
 <div style="margin-top:30px;"></div>
