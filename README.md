@@ -1,4 +1,4 @@
-<!-- GitHub Profile README for Mridhul - upgraded with ML/DL focus (NO horizontal rules) -->
+<!-- GitHub Profile README for Mridhul - upgraded with ML/DL focus (NO horizontal rules; custom divider added) -->
 
 <div align="center">
 
@@ -16,6 +16,9 @@ I'm an **aspiring AI Researcher**, passionate about building intelligent systems
 
 I am currently pursuing an **M.Sc. in Data Science**, while experimenting with ML/DL models, analytics workflows, and end-to-end data projects.
 
+<!-- Custom Colored Divider -->
+<div style="height:2px;background:#6a0dad;margin:22px 0;border-radius:4px;"></div>
+
 ## 💼 Corporate Experience (11+ Years)
 
 Experienced professional with a strong background across multiple corporate domains, including:
@@ -25,6 +28,9 @@ Experienced professional with a strong background across multiple corporate doma
 - 🧩 **HR Analytics**  
 - 🏥 **Healthcare Analytics**  
 - 🌍 **Business Immigration (Global Mobility)**  
+
+<!-- Custom Colored Divider -->
+<div style="height:2px;background:#6a0dad;margin:22px 0;border-radius:4px;"></div>
 
 ## 🚀 Areas of Expertise
 
@@ -48,8 +54,7 @@ Experienced professional with a strong background across multiple corporate doma
 
 ### 📫 Let's Connect
 
-- Email: **[mridhulp@zohomail.in](mailto:mridhulp@zohomail.in)**  
+- Email: **[mridhulp@zohomail.in](mailto:mridhulp@zohomail.in)** , **`mridhul0014@gmail.com`**
 - LinkedIn: [Mridhul T P](https://www.linkedin.com/in/mridhul-t-p-2b396920b)
 
-<!-- Colorful SVG Wave Pattern (Sarvesh-style) -->
 <div style="margin-top:30px;"></div>
