@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <img src="YOUR_GIF_URL_HERE.gif" alt="Mridhul T P: Aspiring AI Researcher" style="max-width: 100%; height: auto; display: block; margin: 20px auto;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Mridhul+T+P%3A+Aspiring+AI+Researcher" alt="Typing Text Effect" />
 </div>
 
 ## Hey Friends,
