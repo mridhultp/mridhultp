@@ -19,7 +19,7 @@ I am currently pursuing an **M.Sc. in Data Science**, while experimenting with M
 <!-- Custom Colored Divider -->
 <div style="height:2px;background:#6a0dad;margin:22px 0;border-radius:4px;"></div>
 
-## 💼 Corporate Experience (11+ Years)
+<h2>💼 Corporate Experience (11+ Years)</h2> (11+ Years)
 
 Experienced professional with a strong background across multiple corporate domains, including:
 
@@ -32,7 +32,7 @@ Experienced professional with a strong background across multiple corporate doma
 <!-- Custom Colored Divider -->
 <div style="height:2px;background:#6a0dad;margin:22px 0;border-radius:4px;"></div>
 
-## 🚀 Areas of Expertise
+<h2>🚀 Areas of Expertise</h2>
 
 - 🤖 **Machine Learning & AI Systems**  
 - 🔒 **AI Safety & Security**  
@@ -54,7 +54,7 @@ Experienced professional with a strong background across multiple corporate doma
 
 ### 📫 Let's Connect
 
-- Email: **[mridhulp@zohomail.in](mailto:mridhulp@zohomail.in)** , **`mridhul0014@gmail.com`**
+- Email: **[mridhulp@zohomail.in](mailto:mridhulp@zohomail.in)**  , **[mridhulp@gamil.com](mailto:mridhulp@gmail.com)**  
 - LinkedIn: [Mridhul T P](https://www.linkedin.com/in/mridhul-t-p-2b396920b)
 
 <div style="margin-top:30px;"></div>
