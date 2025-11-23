@@ -14,15 +14,8 @@
 
 I'm an **aspiring AI Researcher**, passionately building intelligent systems with a focus on **Machine Learning (ML)** and **Deep Learning (DL)** architectures.
 
-I am currently pursuing an **M.Sc. in Data Science** where I focus on:
+I am currently pursuing an M.Sc. in Data Science with a research interest in combining Yoga Science, Physiology, and Machine Learning to study patterns in health, stress, wellbeing, and human performance.
 
-<div align="center" style="margin: 20px 0;">
-    <img src="https://raw.githubusercontent.com/datarevenue/Data-Centric-MLOps-Project/main/img/mlops-cycle.png" 
-         alt="MLOps Cycle Diagram" 
-         width="650" 
-         style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);" />
-    <br><small style="color:#A0A0A0; margin-top: 10px;">End-to-end MLOps: From Data Collection to Model Retraining and Improvement.</small>
-</div>
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
