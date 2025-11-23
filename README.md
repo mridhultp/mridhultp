@@ -1,8 +1,8 @@
-<!GitHub Profile README for Mridhul - upgraded with ML/DL focus and colorful sheet background -->
+<!-- GitHub Profile README for Mridhul - upgraded with ML/DL focus and colorful sheet background -->
 
 <div align="center">
 
-  <! Full-page gradient background top to bottom -->
+   <!-- Full-page gradient background top to bottom -->
   <div style="width:100%;height:8px;background:linear-gradient(90deg,#ff0077,#ffae00,#00d0ff,#b300ff,#00ff95);border-radius:4px;margin-bottom:20px"></div>
 
   <p><small>Profile views: <b>23,456</b></small></p>
