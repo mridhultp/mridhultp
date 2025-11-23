@@ -1,9 +1,13 @@
-<div align="center">
-    <p><small style="color:#A0A0A0;">Profile views: <b>23,456</b></small></p>
+<!-- GitHub Profile README for Mridhul - upgraded with ML/DL focus (NO horizontal rules; custom divider added) -->
 
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Animated coding illustration" style="display: block; margin: 0 auto;" />
-    </div>
+<div align="center">
+
+  <p><small>Profile views: <b>23,456</b></small></p>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="290" />
+  </p>
+
 </div>
 
 <div align="center">
@@ -15,9 +19,12 @@
 I'm an **aspiring AI Researcher**, passionately building intelligent systems with a focus on **Machine Learning (ML)** and **Deep Learning (DL)** architectures.
 
 I am currently pursuing an **M.Sc. in Data Science** where I experiment with:
-* **Model Architectures:** Exploring **Transformers**, **GANs**, and **Reinforcement Learning (RL)**.
-* **Analytics Workflows:** Designing robust **ETL/ELT pipelines** and **end-to-end MLOps** practices.
-* **Real-world Applications:** Applying predictive modeling across diverse domains.
+
+<div align="center" style="margin: 20px 0;">
+    <img src="YOUR_ML_LIFECYCLE_IMAGE_URL_HERE" alt="ML Lifecycle: Data Collection, Model Training, Deployment, and Monitoring" width="550" />
+    <br><small style="color:#A0A0A0;">Focusing on end-to-end MLOps from data acquisition to model deployment and monitoring.</small>
+</div>
+<div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
