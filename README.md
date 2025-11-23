@@ -1,9 +1,9 @@
 <div align="center">
     <p><small style="color:#A0A0A0;">Profile views: <b>23,456</b></small></p>
 
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Animated coding illustration" />
-    </p>
+    <div align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Animated coding illustration" style="display: block; margin: 0 auto;" />
+    </div>
 
 </div>
 
