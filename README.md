@@ -5,7 +5,6 @@
   <!-- Full-page gradient background top to bottom -->
   <div style="width:100%;height:8px;background:linear-gradient(90deg,#ff0077,#ffae00,#00d0ff,#b300ff,#00ff95);border-radius:4px;margin-bottom:20px"></div>
 
-  <h2> Mridhul TP </h2>
   <p><small>Profile views: <b>23,456</b></small></p>
 
   <p align="center">
@@ -21,47 +20,35 @@
 
 ### 👋 Hi Friends,
 
-An **aspiring Data Analyst, Data Scientist, and Machine Learning Engineer**, passionate about building intelligent systems using **Python, Machine Learning, and Deep Learning frameworks**.
+An **I'm an aspiring AI Researcher**, passionate about building intelligent systems using **Python, Machine Learning, and Deep Learning frameworks**.
 
 I am currently pursuing an **M.Sc. in Data Science**, while experimenting with ML/DL models, analytics workflows, and end‑to‑end data projects.
 
+💼 Corporate Experience (11+ Years)
 
+Experienced professional with a strong background across multiple corporate domains, including:
 
-### 🔭 ML & DL Projects I'm Working On
+    💰 Finance & Financial Operations
+    
+    📈 Workforce Management (WFM)
+    
+    🧩 HR Analytics
+    
+    🏥 Healthcare Analytics
+    
+    🌍 Business Immigration (Global Mobility)
 
-- Building ML classification & regression models (scikit‑learn).
-- Deep learning projects using **TensorFlow/Keras & PyTorch**.
-- Computer Vision experiments (CNNs, image preprocessing, augmentation).
-- NLP models using transformers (HuggingFace).
-- Time‑series forecasting models.
-- End‑to‑end workflow from data cleaning → feature engineering → model deployment.
+🚀 Areas of Expertise
 
-
-
-### 🛠️ Skills & Tools
-
-#### **Programming & Data Handling**
-- Python, SQL
-- NumPy, Pandas, Scikit‑Learn
-- Regex, Data Wrangling, EDA
-
-#### **Machine Learning & Deep Learning**
-- TensorFlow, Keras, PyTorch
-- CNN, RNN, LSTM, Transformers
-- Model evaluation, tuning, optimization
-
-#### **Visualization & BI**
-- Power BI, matplotlib
-- Exploratory Data Analysis, Dashboards
-
-#### **Databases & Storage**
-- PostgreSQL, MySQL, SQLite
-
-#### **Tools & Workflow**
-- Git/GitHub, Jupyter Notebook, VS Code
-- Linux basics, virtual environments
-
-
+    🤖 Machine Learning & AI Systems
+    
+    🔒 AI Safety & Security
+    
+    🎯 Prompt Engineering
+    
+    🧠 Anatomy, Physiology & Yoga Science (M.Sc. Yoga + UGC NET)
+    
+    📚 Research & Academic Writing — First Author in an International Conference Publication
 
 <div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap">
 
