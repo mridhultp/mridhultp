@@ -16,7 +16,7 @@
 
 I'm an **aspiring AI Researcher**, passionately building intelligent systems with a focus on **Machine Learning (ML)** and **Deep Learning (DL)** architectures.
 
-I am currently pursuing an M.Sc. in Data Science with a research interest in combining Yoga Science, Physiology, and Machine Learning to study patterns in health, stress, wellbeing, and human performance.
+I am currently pursuing an M.Sc. in Data Science with a research interest in combining Yoga Science, Physiology,Anatomy,Psychology and Machine Learning to study patterns in health, stress, wellbeing, and human performance.
 
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
