@@ -83,7 +83,5 @@ I'm always open to discussing new AI/ML projects, research opportunities, and da
 
 <div style="margin-top:20px;"></div>
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mridhultp&theme=onedark&no-frame=true&row=1&column=5" alt="GitHub Trophies" />
-    <br><small style="color:#A0A0A0; margin-top:10px;">Building the future, one intelligent system at a time.</small>
+<br><small style="color:#A0A0A0; margin-top:10px;">Building the future, one intelligent system at a time.</small>
 </div>
