@@ -53,7 +53,7 @@ Showcasing my primary tools and areas of expertise with dynamic badges:
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
-## 💼 Corporate Foundation (11+ Years of Analytical Experience)
+## 💼 Corporate Foundation (6+ Years of Data Analytical Experience - MIS & WFM)
 
 My extensive corporate experience provides a strong analytical and domain-specific foundation crucial for Data Science applications:
 
