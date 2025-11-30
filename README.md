@@ -64,16 +64,15 @@ My extensive corporate experience provides a strong analytical and domain-specif
 <div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin-top:25px;">
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mridhultp&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mridhul's GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mridhultp&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mridhul's GitHub Stats"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridhultp&layout=compact&theme=radical&hide_border=true" alt="Mridhul's Top Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mridhultp&layout=compact&theme=radical&hide_border=true" alt="Mridhul's Top Languages"/>
 </p>
 
 </div>
 
-<div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
 ## 🤝 Let's Connect and Collaborate!
 
