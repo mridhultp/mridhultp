@@ -65,6 +65,20 @@ My extensive corporate experience provides a strong analytical and domain-specif
 <div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin-top:25px;">
 
 <p align="left">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mridhultp&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mridhul's GitHub Stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mridhultp&layout=compact&theme=radical&hide_border=true" alt="Mridhul's Top Languages"/>
+</p>
+
+</div>
+
+
+
+<div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin-top:25px;">
+
+<p align="left">
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mridhultp&label=GitHub%20Stats&query=$.public_repos&color=6A0DAD&style=for-the-badge" alt="Mridhul's GitHub Stats"/>
 </p>
 
