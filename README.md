@@ -61,14 +61,15 @@ My extensive corporate experience provides a strong analytical and domain-specif
 * 🧩 **HR & Healthcare Analytics:** Applying statistical methods to complex organizational and clinical data.
 * 🌍 **Business Immigration (Global Mobility):** Understanding complex regulatory data flows.
 
+
 <div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin-top:25px;">
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mridhultp&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mridhul's GitHub Stats"/>
+  <img src="https://github-readme-stats-mridhul.vercel.app/api?username=mridhultp&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mridhul's GitHub Stats"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mridhultp&layout=compact&theme=radical&hide_border=true" alt="Mridhul's Top Languages"/>
+  <img src="https://github-readme-stats-mridhul.vercel.app/api/top-langs/?username=mridhultp&layout=compact&theme=radical&hide_border=true" alt="Mridhul's Top Languages"/>
 </p>
 
 </div>
