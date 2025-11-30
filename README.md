@@ -68,13 +68,6 @@ My extensive corporate experience provides a strong analytical and domain-specif
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mridhultp&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mridhul's GitHub Stats"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mridhultp&layout=compact&theme=radical&hide_border=true" alt="Mridhul's Top Languages"/>
-</p>
-
-</div>
-
-
 
 <p align="left">
   <img src="https://img.shields.io/badge/Top%20Languages-Python%20%7C%20HTML%20%7C%20SQL-6A0DAD?style=for-the-badge" alt="Mridhul's Top Languages"/>
