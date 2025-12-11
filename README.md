@@ -14,11 +14,11 @@
 
 ## Hey Welcome to my Github Account,
 
-I'm an aspiring  **Data Analyst**, continuously learning and working on various analytical activities now. I wish, i would like to become a AI Researcher in future within 3 to 5 years span. Hence, Passionately building intelligent systems with a focus on **Machine Learning (ML)** and **Deep Learning (DL)** architectures.
+I'm an aspiring  **Data Analyst**, continuously learning and working on various analytical activities now. I wish, i would like to become a AI Researcher in future. Hence, Passionately building intelligent systems with a focus on Machine Learning and Deep Learning.
 
-I am currently pursuing an M.Sc. in Data Science with a research interest in the domain of Yoga Science, Health Science and Psychology.
+I am currently pursuing an M.Sc. in Data Science (Final Year) with a research interest in the domain of Yoga Science, Health Science, Psychology, Business ops, HR & Finance.
 
-Holding a bachelors in Business Administration and a Master’s in Yoga, I conducted a comprehensive research investigation evaluating the effectiveness of yoga among IT professionals. The study, recognized with First Author status and published in the INCOFYRA International Conference Proceedings (2025), highlights my expertise in study design, data collection, statistical evaluation, and producing high-impact scholarly work.
+Holding a bachelors in Business Administration and a Master’s in Yoga, I conducted a comprehensive research investigation evaluating the effectiveness of yoga among IT professionals. The study, recognized with First Author status and published in the INCOFYRA International Conference Journal Proceedings (2025), highlights my expertise in study design, data collection, statistical evaluation, and producing high-impact scholarly work.
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
@@ -30,7 +30,7 @@ My extensive corporate experience provides a strong analytical and domain-specif
 * 💰 **Finance & Financial Operations:** Data-driven decision support and process optimization.
 * 📈 **Workforce Management (WFM):** Predictive resource planning and scheduling models.
 * 🧩 **HR & Healthcare Analytics:** Applying statistical methods to complex organizational and clinical data.
-* 🌍 **Business Immigration (Global Mobility):** Understanding complex regulatory data flows.
+* 🌍 **Business Immigration :** Understanding complex regulatory data flows.
 
 
 ## 🛠️ Machine Learning & Deep Learning Stack
