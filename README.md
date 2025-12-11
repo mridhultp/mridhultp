@@ -25,7 +25,7 @@ Holding a bachelors in Business Administration and a Master’s in Yoga, I condu
 
 ## 💼 Corporate Foundation (6+ Years of Data Analytical Experience - MIS & WFM)
 
-My extensive corporate experience provides a strong analytical and domain-specific foundation crucial for Data Science applications:
+Overall 11+ Years of diverse experince in IT sector. My extensive corporate experience provides a strong analytical and domain-specific foundation crucial for Data Science applications:
 
 * 💰 **Finance & Financial Operations:** Data-driven decision support and process optimization.
 * 📈 **Workforce Management (WFM):** Predictive resource planning and scheduling models.
