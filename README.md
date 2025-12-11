@@ -14,9 +14,11 @@
 
 ## Hey Welcome to my Github Account,
 
-I'm an **aspiring AI Researcher**, passionately building intelligent systems with a focus on **Machine Learning (ML)** and **Deep Learning (DL)** architectures.
+I'm an aspiring  **Data Analyst**, continuously learning and working on various analytical activities now. I wish, i would like to become a AI Researcher in future within 3 to 5 years span. Hence, Passionately building intelligent systems with a focus on **Machine Learning (ML)** and **Deep Learning (DL)** architectures.
 
 I am currently pursuing an M.Sc. in Data Science with a research interest in the domain of Yoga Science, Health Science and Psychology.
+
+Holding a bachelors in Business Administration and a Master’s in Yoga, I conducted a comprehensive research investigation evaluating the effectiveness of yoga among IT professionals. The study, recognized with First Author status and published in the INCOFYRA International Conference Proceedings (2025), highlights my expertise in study design, data collection, statistical evaluation, and producing high-impact scholarly work.
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
