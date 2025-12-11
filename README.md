@@ -22,6 +22,17 @@ Holding a bachelors in Business Administration and a Master’s in Yoga, I condu
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
+
+## 💼 Corporate Foundation (6+ Years of Data Analytical Experience - MIS & WFM)
+
+My extensive corporate experience provides a strong analytical and domain-specific foundation crucial for Data Science applications:
+
+* 💰 **Finance & Financial Operations:** Data-driven decision support and process optimization.
+* 📈 **Workforce Management (WFM):** Predictive resource planning and scheduling models.
+* 🧩 **HR & Healthcare Analytics:** Applying statistical methods to complex organizational and clinical data.
+* 🌍 **Business Immigration (Global Mobility):** Understanding complex regulatory data flows.
+
+
 ## 🛠️ Machine Learning & Deep Learning Stack
 
 Showcasing my primary tools and areas of expertise with dynamic badges:
@@ -53,15 +64,6 @@ Showcasing my primary tools and areas of expertise with dynamic badges:
 * **🧠 Interdisciplinary Science:** Leveraging knowledge from Anatomy, Physiology, & Yoga Science (M.Sc. Yoga + UGC NET).
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
-
-## 💼 Corporate Foundation (6+ Years of Data Analytical Experience - MIS & WFM)
-
-My extensive corporate experience provides a strong analytical and domain-specific foundation crucial for Data Science applications:
-
-* 💰 **Finance & Financial Operations:** Data-driven decision support and process optimization.
-* 📈 **Workforce Management (WFM):** Predictive resource planning and scheduling models.
-* 🧩 **HR & Healthcare Analytics:** Applying statistical methods to complex organizational and clinical data.
-* 🌍 **Business Immigration (Global Mobility):** Understanding complex regulatory data flows.
 
 
 <div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin-top:25px;">
