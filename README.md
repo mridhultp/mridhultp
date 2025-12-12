@@ -116,9 +116,8 @@ I'm always open to discussing new AI/ML or anyother Data science projects, data 
 
 * 📧 **Email:** [mridhul0014@gmail.com](mailto:mridhul0014@gmail.com) \|  [mridhulp@zohomail.in](mailto:mridhulp@zohomail.in)
 * 🔗 **LinkedIn:** [Mridhul T P](https://www.linkedin.com/in/mridhul-t-p-2b396920b)
-* 💡 **Portfolio/Blog:** *[Coming Soon]*
 
 <div style="margin-top:20px;"></div>
 
-<br><small style="color:#A0A0A0; margin-top:10px;">Best of East with best of West.</small>
+<br><small style="color:#A0A0A0; margin-top:10px;">Be Positive.</small>
 </div>
