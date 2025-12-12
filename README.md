@@ -82,7 +82,7 @@ Showcasing my primary tools and areas of expertise with dynamic badges:
 
 ## Data & Engineering Expertise
 
-📊 Big Data Analysis: Handling large datasets, preprocessing, ETL, and analytical reporting with modern data ecosystems.
+📊 Data Analysis: Handling large datasets, preprocessing, ETL, and analytical reporting with modern data ecosystems.
 
 📈 MIS (Management Information Systems): Creating automated reports, dashboards, and performance insights for business decision-making.
 
