@@ -37,13 +37,13 @@ Overall 11+ Years of diverse experince in IT sector. My extensive corporate expe
 
 Data Analysis & Visualization
 
-<p> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/> <img src="https://img.shields.io/badge/Power_Query-0E6A61?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query Badge"/> <img src="https://img.shields.io/badge/Power_Pivot-185ABD?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Pivot Badge"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/> </p>
+<p> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/> <img src="https://img.shields.io/badge/Power_Query-0E6A61?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query Badge"/> <img src="https://img.shields.io/badge/Power_Pivot-185ABD?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Pivot Badge"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/> </p>
 
 Databases
-<p> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/> </p>
+<p> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/> <img src="https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="MS Access Badge"/> </p>
 
 Programming
-<p> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> </p>
+<p> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/> </p>
 
 ## 🛠️ Machine Learning & Deep Learning Stack
 
