@@ -18,7 +18,7 @@ I'm an aspiring  **Data Analyst**, continuously learning and working on various 
 
 I am currently pursuing an M.Sc. in Data Science (Final Year) with a research interest in the domain of Yoga Science, Health Science, Psychology, Business ops, HR & Finance.
 
-Holding Degree in bachelors in Business Administration and a Master’s in Yoga also obtained UGC NET in YOGA, I conducted a comprehensive research investigation evaluating the effectiveness of yoga among IT professionals during my masters. The study, recognized with First Author status and published in the INCOFYRA International Conference Journal Proceedings (2025), highlights my expertise in study design, data collection, statistical evaluation, and producing high-impact scholarly work.
+Holding bachelors Degree in Business Administration and a Master’s in Yoga. also, obtained UGC NET in YOGA, I conducted a comprehensive research investigation evaluating the effectiveness of yoga among IT professionals during my masters. The study, recognized with First Author status and published in the INCOFYRA International Conference Journal Proceedings (2025), highlights my expertise in study design, data collection, statistical evaluation, and producing high-impact scholarly work.
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
