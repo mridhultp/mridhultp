@@ -14,7 +14,7 @@
 
 ## Hey Welcome to my Github Account,
 
-I'm an aspiring  **Data Analyst**, continuously learning and working on various analytical activities. I wish, i would like to be a AI Researcher in future. Hence, Passionately building intelligent systems with a focus on Machine Learning and Deep Learning.
+I'm an aspiring  **Data Analyst**, continuously learning and working on various analytical activities. Passionately learning various analytical tools concepts and building intelligent systems with a focus on Machine Learning and Deep Learning.
 
 I am currently pursuing an M.Sc. in Data Science (Final Year) with a research interest in the domain of Yoga Science, Health Science, Psychology, Business ops, HR & Finance.
 
