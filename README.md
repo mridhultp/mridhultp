@@ -26,7 +26,7 @@ Holding bachelors Degree in Business Administration and a Master’s in Yoga. al
 Overall 12+ Years of diverse experince in IT sector. My extensive corporate experience provides a strong analytical and domain-specific foundation crucial for Data Science applications:
 
 * 📈 **Workforce Management (WFM):** Predictive resource planning and scheduling models.
-* 🧩 **HR & Healthcare Analytics:** Applying statistical methods to complex organizational and clinical data.
+* 🧩 **HR & Healthcare Analytics:** Applying statistical and analytics methods to complex organizational and clinical data.
 * 🌍 **Business Immigration :** 
 * 💰 **Financial Audits:** 
 
