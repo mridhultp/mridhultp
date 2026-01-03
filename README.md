@@ -66,29 +66,26 @@ Showcasing my primary tools and areas of expertise with dynamic badges:
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
 </p>
 
-## Areas of Expertise
+## Areas of Interest as a Data Analyst
 
-🤖 AI Systems & MLOps: Designing, deploying, and monitoring scalable ML/AI pipelines with best-practice automation and version control.
 
-🔒 AI Safety & Security: Ensuring robust, ethical, and safe AI system behavior with strong focus on risk mitigation.
+📊 Data Analysis & Business Intelligence
+Data cleaning, transformation, exploratory data analysis (EDA), and deriving actionable insights from large datasets.
 
-🎯 Prompt Engineering: Crafting optimized prompts for LLMs to improve accuracy, reasoning, and task outcomes.
+📈 Power BI & Dashboard Development
+Building interactive dashboards, KPI scorecards, DAX-based measures, and automated reports for business stakeholders.
 
-📚 Research & Publication: First Author in an International Conference (INCOFYRA 2025), demonstrating strong academic research and analytical skills.
+🗄️ SQL & Database Analytics
+Writing optimized SQL queries, joins, CTEs, and aggregations using PostgreSQL/MySQL to support reporting and analysis.
 
-🧠 Interdisciplinary Science: Applying expertise in Anatomy, Physiology, and Yoga Science (M.Sc. Yoga + UGC NET) for holistic analytical perspectives.
+📉 MIS & Performance Reporting
+Designing automated MIS reports, trend analysis, and operational performance metrics for management decision-making.
 
-## Data & Engineering Expertise
+🛠️ ETL & Data Preparation
+Extracting data from multiple sources, preprocessing using Python, and preparing analytical datasets for visualization tools.
 
-📊 Data Analysis: Handling large datasets, preprocessing, ETL, and analytical reporting with modern data ecosystems.
-
-📈 MIS (Management Information Systems): Creating automated reports, dashboards, and performance insights for business decision-making.
-
-📉 Workforce Management (WFM): Experience in forecasting, capacity planning, scheduling, and performance analytics.
-
-🛠️ Data Engineering: Working with data pipelines, SQL optimization, ETL processes, and scalable architecture for analytics.
-
-🧮 Machine Learning: Building predictive models, classification, regression, and end-to-end ML workflows using Python, scikit-learn, & modern ML tools.
+📊 Statistical & Predictive Analysis
+Applying descriptive statistics and basic predictive models (regression, classification) to identify patterns and support forecasting.
 
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
