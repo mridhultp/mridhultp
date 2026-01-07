@@ -14,9 +14,9 @@
 
 ## Hey Welcome to my Github Account,
 
-I'm an aspiring  **Data Analyst**, continuously learning and working on various analytical activities. Passionately learning various analytical tools concepts and building intelligent systems with a focus on Machine Learning and Deep Learning.
+I'm a **Data Analyst** experienced in business and operational analytics, focused on transforming data into actionable insights. Passionate about solving business problems through analytics, reporting, and visualization, while continuously upskilling in Machine Learning and advanced analytics to deliver smarter data solutions.
 
-Holding bachelors Degree in Business Administration and a Master’s in Yoga. also, obtained UGC NET in YOGA, I conducted a comprehensive research investigation evaluating the effectiveness of yoga among IT professionals during my masters. The study, recognized with First Author status and published in the INCOFYRA International Conference Journal Proceedings (2025), highlights my expertise in study design, data collection, statistical evaluation, and producing high-impact scholarly work.
+Pursuing a Master’s degree in Data Science, with a Bachelor’s degree in Business Administration and an additional Master’s degree in Yoga, focused on psychological and emotional well-being. This multidisciplinary background supports both analytical problem-solving and a holistic approach to learning and personal upskilling. also, obtained UGC NET in YOGA, I conducted a comprehensive research investigation evaluating the effectiveness of yoga among IT professionals during my masters. The study, recognized with First Author status and published in the INCOFYRA International Conference Journal Proceedings (2025), highlights my expertise in study design, data collection, statistical evaluation, and producing high-impact scholarly work.
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
