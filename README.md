@@ -21,7 +21,7 @@ Pursuing a Master’s degree in Data Science, with a Bachelor’s degree in Busi
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
 
-## 💼 Corporate Foundation (6+ Years of Data Analytical Experience - MIS & WFM)
+## 💼 Corporate Foundation (6+ Years of Data Analytical Experience - Core MIS & WFM)
 
 Overall 12+ Years of diverse experince in IT sector. My extensive corporate experience provides a strong analytical and domain-specific foundation crucial for Data Science applications:
 
