@@ -84,7 +84,6 @@ Applying descriptive statistics and basic predictive models (regression, classif
 
 ## 🤝 Let's Connect and Collaborate!
 
-I'm always open to discussing new AI/ML or anyother Data science projects, data challenges in my domain, research opportunities in healthcare , Yoga and integrated medicine. 
 
 * 📧 **Email:** [mridhul0014@gmail.com](mailto:mridhul0014@gmail.com) \|  [mridhulp@zohomail.in](mailto:mridhulp@zohomail.in)
 * 🔗 **LinkedIn:** [Mridhul T P](https://www.linkedin.com/in/mridhul-t-p-2b396920b)
