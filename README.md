@@ -20,14 +20,14 @@ I'm a **Data Analyst** experienced in business and operational analytics, focuse
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
 
 
-## 💼 Corporate Foundation (6+ Years of Data Analytical Experience - Core MIS & WFM)
+## 💼 Corporate Foundation (4 years of experince in Business Analysis and Operational Reports | 6+ Years of Data Analytical Experience -  MIS & WFM)
 
 Overall 11+ Years of diverse experince in IT sector. My extensive corporate experience provides a strong analytical and domain-specific foundation crucial for Data Science applications:
 
-* 📈 **Workforce Management (WFM):** Predictive resource planning and scheduling models.
-* 🧩 **HR & Healthcare Analytics:** Applying statistical and analytics methods to complex organizational and clinical data.
-* 🌍 **Business Immigration :** 
-* 💰 **Financial Audits:** 
+* 🌍 **Business Immigration (Fragomen):** Business Analysis and Operational Reports - 4 years
+* 🧩 **HR & Healthcare Analytics (Wipro):** Applying statistical and analytics methods to complex organizational, HR, Payroll, Finance and clinical data. - Above 5 years
+* 📈 **Workforce Management (WFM - Sutherland) :** Predictive resource planning and scheduling models. - Approx 1.5 years
+* 💰 **Financial Audits: (KPMG)**  Financial Auditing - Approx 1.5 Years
 
 
 ## 🛠️ Tools & Technologies I Work With
