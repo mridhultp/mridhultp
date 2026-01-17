@@ -71,7 +71,7 @@ Applying descriptive statistics and basic predictive models (regression, classif
 <div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin-top:25px;">
 
 <p align="left">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mridhultp&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mridhul's GitHub Stats"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mridhultp&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=commits" alt="Mridhul's GitHub Stats"/>
 </p>
 
 
