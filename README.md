@@ -42,28 +42,6 @@ Databases
 Programming
 <p> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> </p>
 
-## 🛠️ Machine Learning & Deep Learning Stack
-
-Showcasing my primary tools and areas of expertise with dynamic badges:
-
-### Core Frameworks & Libraries
-<p>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Badge"/>
-</p>
-<p>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
-    <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge"/>
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit Badge"/>
-</p>
-<p>
-    <img src="https://img.shields.io/badge/Seaborn-3C9A84?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
-    <img src="https://img.shields.io/badge/Matplotlib-033D50?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib Badge"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-</p>
 
 ## Areas of Interest as a Data Analyst
 
