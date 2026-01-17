@@ -14,7 +14,7 @@
 
 ## Hey Welcome to my Github Account,
 
-I'm a **Data Analyst** experienced in business and operational analytics, focused on transforming data into actionable insights. Passionate about solving business problems through analytics, reporting, and visualization, while continuously upskilling in Machine Learning and advanced analytics to deliver smarter data solutions.
+I'm a **Data Analyst** experienced in business and operational analytics, focused on transforming data into actionable insights. Passionate about solving business problems through analytics, reporting, and visualization, while continuously upskilling in Reporting and advanced analytics to deliver smarter data solutions.
 
 
 <div style="height:3px;background:linear-gradient(90deg, #6A0DAD, #4A00B3, #00A6A6);margin:25px 0;border-radius:4px;"></div>
