@@ -85,7 +85,7 @@ Applying descriptive statistics and basic predictive models (regression, classif
 ## 🤝 Let's Connect and Collaborate!
 
 
-* 📧 **Email:** [mridhul0014@gmail.com](mailto:mridhul0014@gmail.com) \|  [mridhulp@zohomail.in](mailto:mridhulp@zohomail.in)
+* 📧 **Email:** [mridhul0014@gmail.com](mailto:mridhul0014@gmail.com) \|  [mridhulp@zohomail.in](mailto:mridhulp@gmail.com)
 * 🔗 **LinkedIn:** [Mridhul T P](https://www.linkedin.com/in/mridhul-t-p-2b396920b)
 
 <div style="margin-top:20px;"></div>
